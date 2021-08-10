@@ -127,6 +127,10 @@ body,
   justify-content: space-between;
 }
 
+.info h4:hover {
+  color: #006BC2;
+}
+
 .flex__center h4 {
   color: #00A5EC;
   font-size: 14px;
