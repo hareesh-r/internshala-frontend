@@ -169,7 +169,6 @@ export class App extends Component {
               © Copyright 2021 Internshala
             </div>
           </div>
-          <hr />
         </footer>
       </div>
 

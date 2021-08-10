@@ -28,7 +28,7 @@ export class FooterRows extends Component {
             "Campus Ambassador Program",
         ];
         var obj3 = [
-            "Online Trainings OFFER",
+            "Online Trainings ",
             "Programming with Python",
             "Digital Marketing",
             "Web Development",

@@ -134,6 +134,7 @@ body,
   justify-content: space-around;
 }.FooterRows p {
   margin: 1px;
+  margin-bottom: 8px;
   cursor: pointer;
 }.FooterColumns p:nth-child(1) {
   font-weight: 700;
