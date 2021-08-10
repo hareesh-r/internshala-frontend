@@ -22,7 +22,8 @@ body,
   justify-content: space-between;
   flex-direction: row;
   padding: 20px;
-  box-shadow: -1px 5px 5px 0px rgba(122, 104, 104, 0.75);
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 15%);
+  height: 72px;
 }
 
 .header__right {
