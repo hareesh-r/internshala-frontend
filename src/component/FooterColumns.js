@@ -5,8 +5,8 @@ export class FooterColumns extends Component {
         return (
             <div className="FooterColumns">
                 {
-                    this.props.text.map((item) => (
-                        <p>
+                    this.props.text.map((item,index) => (
+                        <p key={index}>
                             {item}
                         </p>
                     ))
