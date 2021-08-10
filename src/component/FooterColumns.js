@@ -5,7 +5,7 @@ export class FooterColumns extends Component {
         return (
             <div className="FooterColumns">
                 {
-                    this.props.text.map((item)=>(
+                    this.props.text.map((item) => (
                         <p>
                             {item}
                         </p>

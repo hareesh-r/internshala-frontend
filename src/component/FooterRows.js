@@ -53,7 +53,7 @@ export class FooterRows extends Component {
         ];
         return (
             <div className="FooterRows">
-                <FooterColumns text={obj1}/>
+                <FooterColumns text={obj1} />
                 <FooterColumns text={obj2} />
                 <FooterColumns text={obj3} />
                 <FooterColumns text={obj4} />

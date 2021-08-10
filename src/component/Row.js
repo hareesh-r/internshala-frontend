@@ -16,12 +16,12 @@ export class Row extends Component {
                     {
                         this.props.given.map((item, index) => (
                             <div key={index}>
-                                <Column img={item.img} text={item.text}/>
+                                <Column img={item.img} text={item.text} />
                             </div>
                         ))
                     }
                 </div>
-                
+
             </div>
         )
     }
