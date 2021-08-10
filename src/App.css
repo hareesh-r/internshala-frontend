@@ -92,10 +92,13 @@ body,
 .search__box button {
   background: #00A5EC;
   color: #fff;
+  margin-left: -43px;
+  outline: none;
+  border: #008bcd 1px solid;
 }
 
 .search__box input {
-  width: 45%;
+  width: 30%;
   outline: none;
 }
 

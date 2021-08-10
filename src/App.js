@@ -115,7 +115,7 @@ export class App extends Component {
         <div className="search__box flex__center">
           <input type="text" placeholder="What are you looking for ?" />
           <button>
-            <i className="fas fa-search"></i>
+            <i className="fas fa-search fa-lg"></i>
           </button>
         </div>
         <div className="carousel flex__center">
