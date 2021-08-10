@@ -109,6 +109,10 @@ body,
   overflow-y: hidden;
 }
 
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
 .info__left {
   display: flex;
   flex-direction: column;

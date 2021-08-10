@@ -157,7 +157,7 @@ export class App extends Component {
           <div className="bottom__footer">
             <div className="bottom__footer__left">
               <button>
-              <i class="fab fa-google-play fa-lg"></i> Get Android App
+                <i class="fab fa-google-play fa-lg"></i> Get Android App
               </button>
               <i class="fab fa-instagram fa-lg"></i>
               <i class="fab fa-twitter fa-lg"></i>
