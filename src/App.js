@@ -143,6 +143,9 @@ export class App extends Component {
           <h4>View All Internships ➡</h4>
         </div>
         <Row Title={""} given={object3} />
+         <div className="flex__center more">
+          & 52 more...
+        </div>
         <div className="info flex__center">
           <div className="info__left">
             <h3>Fresher Jobs <span className="orange">NEW</span></h3>
